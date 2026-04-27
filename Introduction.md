@@ -17,7 +17,20 @@ Sections are the smallest building blocks within the HTB academy. <br>
 They are split into theory and practical sections.<br>
 In order to apply what you have learnt in interactive sections you can use Pwnbox. This is a Linux based virtual machine. 
 To start your Pwnbox scroll to the bottom of any interactive section and press "Start Pwnbox".<br>
-You can also create notes about a section using the Cheatsheet tab accessed by pressing the pen icon on the top right oif the screen.<br>
-Q:Start your workstation, then use the integrated terminal to find the Linux OS flavor by running the following command: cat /etc/issue
-A:Parrot Security
-using the ```cat```
+You can also create notes about a section using the Cheatsheet tab accessed by pressing the pen icon on the top right oif the screen<br>
+Q:Start your workstation, then use the integrated terminal to find the Linux OS flavor by running the following command: cat /etc/issue<br>
+A:Parrot Security<br>
+By using the cat command, you are accessing the information held in the folder found following the path specified, in our case /etc/issues.
+<h3>Exercise</h3>
+An exercise will often have an accompanying target which can be started by pressing the "spawn target system button".<br>
+However, some odules have advanced VM targets which either require you to use Pwnbox or to download the relevant VPN file which can be found under the "Connect to HTB header".<br>
+To complete and exercise, submit the answer within the answerr field. If needed a hint is available by pressing the "hint" button.<br>
+Start the above target, copy the shown IP:PORT by clicking on them, and then paste them in your browser. What's the proof shown in the page?<br>
+A:t4rg3ts<br>
+<h3>Paths</h3>
+Paths are a collective of modules that share a broader topic. Some paths may lead to a HTB Certification after completing a corresponding exam.<br>There are two types of paths, skill paths and job-role paths. You can start either by pressing the "Enroll path button".<br>
+Skill paths group a popular skill that students might want to learn whilst job-role paths are related to specific roles in the cybersecurity market. These paths are linked to a HTB certification that requires passing a Multi-day practical exam.<br>
+<h3>Getting Help</h3>
+<br>If you have any problems, you can press on the help button found on the right of the top bar marked by a question mark. Additionally, HTB offers detailed solutions for every exercise acting as a fully guided learning mode, however this feature is only available for paying customers.
+<h3>Next Steps</h3>
+The next steps lie in your hand, choose a path of appropriate difficulty which interests you and have fun.
